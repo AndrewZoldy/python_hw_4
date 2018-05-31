@@ -1,4 +1,4 @@
-# python_hw_4
+# python_hw_4_and_5
 
 Given script builds De Brujin graph from reads in your .fasta file.
 
