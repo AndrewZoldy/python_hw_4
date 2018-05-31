@@ -25,8 +25,14 @@ Options which you can switch:
     * *--mode 'full'*
     * *-m 'cutted'*
     * *--mode 'cutted'*
-    
+   * **-c (--collapse)** - collapsing graph. By default - True, Switch to False, if ypu don not need to collapse your output graph.
+    * *-c False*
+    * *-collapse False*
+   * **-of (--output_fasta)** - path to output .fasta file. By default it will be saved in current directory.
+    * *-of /path/to/out.fasta*
+    * *--output_fasta /path/to/out.fasta*
+   
     
 ##Results
 
-As a result you will obtain image of maden graph.
+As a result you will obtain image of maden graph and .fasta file with obtained sequence.
